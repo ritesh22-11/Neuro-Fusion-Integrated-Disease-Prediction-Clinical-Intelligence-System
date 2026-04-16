@@ -1,27 +1,15 @@
-<p align="center">
-  <a href="https://github.com/AbhaySingh71/AI-Powered-Healthcare-Intelligence-System">
-    <img src="https://img.shields.io/github/stars/AbhaySingh71/AI-Powered-Healthcare-Intelligence-System?style=social" alt="GitHub Stars">
-  </a>
-  <a href="https://hub.docker.com/r/abhaysingh71/ai-powered-healthcare-system">
-    <img src="https://img.shields.io/docker/pulls/abhaysingh71/ai-powered-healthcare-system" alt="Docker Pulls">
-</p>
-
-<h1 align="center">🩺 AI-Powered Healthcare Intelligence Network</h1>
+<h1 align="center">🩺 Neuro-Fusion-Integrated-Disease-Prediction-Clinical-Intelligence-System</h1>
 
 <p align="center">
   <strong>Revolutionizing Healthcare with AI-Driven Predictions, Recommendations, and Insights, Medibot(RAG)</strong>
   <br>
-  
-  ![DALL·E 2025-03-06 19 27 45 - A high-tech AI-driven healthcare system banner](https://github.com/user-attachments/assets/48ac86e6-51bd-40c4-8d96-638fafe9d4c6)
 </p>
 
 ---
 
 <h2>📌 About This Project</h2>
 <p>
-  The <strong>AI-Powered Healthcare Intelligence Network</strong> is a cutting-edge platform that leverages Machine Learning (ML) and Natural Language Processing (NLP) to provide 
-  accurate disease predictions, personalized medical recommendations, and AI-assisted drug suggestions. The system aims to enhance early diagnosis, reduce medical errors, and 
-  offer intelligent healthcare solutions.
+  The <strong>Neuro-Fusion-Integrated-Disease-Prediction-Clinical-Intelligence-System</strong> is a cutting-edge platform that leverages Machine Learning (ML) and Natural Language Processing (NLP) to provide accurate disease predictions, personalized medical recommendations, and AI-assisted drug suggestions. The system aims to enhance early diagnosis, reduce medical errors, and offer intelligent healthcare solutions.
 </p>
 
 
@@ -114,8 +102,8 @@ https://github.com/user-attachments/assets/360876dc-551a-498b-ab75-472137fed751
 
 <h3>1️⃣ Clone the Repository</h3>
 <pre>
-git clone https://github.com/AbhaySingh71/AI-Powered-Healthcare-Intelligence-System.git
-cd AI-Powered-Healthcare-Intelligence-System
+git clone https://github.com/ritesh22-11/Neuro-Fusion-Integrated-Disease-Prediction-Clinical-Intelligence-System.git
+cd Neuro-Fusion-Integrated-Disease-Prediction-Clinical-Intelligence-System
 </pre>
 
 <h3>2️⃣ Set Up the Virtual Environment</h3>
@@ -170,7 +158,6 @@ git push origin main
   <li><strong>Data Handling:</strong> Pandas, NumPy, Pickle</li>
   <li><strong>Web Framework:</strong> Streamlit</li>
   <li><strong>Visualization:</strong> Plotly, SHAP for feature importance</li>
-  <li><strong>Cloud Deployment:</strong> AWS, GCP</li>
 </ul>
 
 ---
@@ -184,30 +171,6 @@ git push origin main
   <li>🔬 <strong>Empowers Medical Research:</strong> Helps in early disease detection and prevention.</li>
 </ul>
 
----
-<h2> Docker Deployment</h2>
-<p>This project is <strong>Docker-first</strong>. Docker ensures that the model can run in any environment without worrying about Python versions, dependencies, or system settings.</p>
-
-```bash
-docker pull abhaysingh71/ai-powered-healthcare-system
-docker run -p 8501:8501 abhaysingh71/ai-powered-healthcare-system
-
-```
-
-<h3>✅ Why Docker?</h3>
-<ul>
-  <li>Environment-independent deployments</li>
-  <li>Fast setup and teardown</li>
-  <li>Easy to host on cloud (AWS, GCP, Azure)</li>
-  <li>Reproducibility for teams and CI/CD pipelines</li>
-</ul>
-
-<h2>🌐 Docker hub</h2>
-<ul>
-  <li><strong>DockerHub</strong>: <a href="https://hub.docker.com/r/abhaysingh71/ai-powered-healthcare-system">https://hub.docker.com/r/abhaysingh71/ai-powered-healthcare-system</a></li>
-</ul>
-
-
 <h2>📜 License</h2>
 <p>
   This project is licensed under the <strong>MIT License</strong>. Feel free to use, modify, and contribute!
@@ -218,14 +181,13 @@ docker run -p 8501:8501 abhaysingh71/ai-powered-healthcare-system
 <h2>📬 Contact Us</h2>
 <p>Have questions or need support? Reach out to us at:</p>
 <ul>
-  <li>📧 <a href="mailto:abhaysingh71711@gmail.com">abhaysingh71711@gmail.com</a></li>
+  <li>📧 <a href="mailto:riteshkumar48171@gmail.com">riteshkumar48171@gmail.com</a></li>
 </ul>
 
 ---
 
 <h2>🌐 Connect With Me</h2>
 <p align="center">
-  <a href="https://github.com/abhaysingh71711" target="_blank">🐙 GitHub</a> |
-  <a href="https://www.linkedin.com/in/abhay-singh-050a5b293/" target="_blank">🔗 LinkedIn</a> |
-  <a href="https://x.com/AbhaySingh71711" target="_blank"> 🐦 Twitter</a>
+  <a href="https://github.com/ritesh22-11" target="_blank">🐙 GitHub</a> |
+  <a href="https://www.linkedin.com/in/ritesh-kumar-verma-777785363/" target="_blank">🔗 LinkedIn</a> |
 </p>
