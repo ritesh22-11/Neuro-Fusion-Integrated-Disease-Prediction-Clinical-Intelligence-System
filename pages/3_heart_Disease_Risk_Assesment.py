@@ -41,7 +41,7 @@ local_css("utils/style_v1.css")
 # Main layout with three columns
 row0_0, row0_1, row0_2, row0_3 = st.columns((0.08, 6, 3, 0.17))
 with row0_1:
-    st.title("AI-Powered Heart Disease Assessment App")
+    st.title("Heart Disease Assessment App")
     st.write("Unmatched Accuracy with Cutting-Edge Machine Learning Models")
 st.write('---')
 
@@ -126,7 +126,7 @@ exercise_status = row6_3.selectbox("Have you exercised in the past 30 days?", ["
 
 with row6_1:
     st.write("#### Learn More")
-    st.markdown("[![](https://img.shields.io/badge/GitHub%20-Features%20Information-informational)](https://github.com/AbhaySingh71/AI-Powered-Healthcare-Intelligence-System/tree/main/heart_disease_risk_assessment)")
+    st.markdown("[![](https://img.shields.io/badge/GitHub%20-Features%20Information-informational)](https://github.com/ritesh22-11/Neuro-Fusion-Integrated-Disease-Prediction-Clinical-Intelligence-System/tree/main/heart_disease_risk_assessment)")
 
 # Collect input data
 input_data = {
@@ -421,6 +421,6 @@ null10_0, row10_1, row10_2 = st.columns((0.04, 7, 0.4))
 with row10_1:
     st.write("""
         ### Contacts
-        [![](https://img.shields.io/badge/GitHub-Follow-informational)](https://github.com/AbhaySingh71)
-        [![](https://img.shields.io/badge/Linkedin-Connect-informational)](https://www.linkedin.com/in/abhay-singh-050a5b293/)
+        [![](https://img.shields.io/badge/GitHub-Follow-informational)](https://github.com/ritesh22-11)
+        [![](https://img.shields.io/badge/Linkedin-Connect-informational)](https://www.linkedin.com/in/ritesh-kumar-verma-777785363/)
     """)
