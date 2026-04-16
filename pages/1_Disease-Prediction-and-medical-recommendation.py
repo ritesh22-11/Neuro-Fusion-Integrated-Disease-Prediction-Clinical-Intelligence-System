@@ -5,7 +5,7 @@ import numpy as np
 from thefuzz import process
 import ast
 
-st.set_page_config(page_title="AI-Powered Healthcare Intelligence Network", page_icon="🩺", layout='wide')
+st.set_page_config(page_title="Neuro-Fusion: Integrated Disease Prediction & Clinical Intelligence System", page_icon="🩺", layout='wide')
 
 st.sidebar.markdown("<h2 style='color: #ffffff;'>📌 Description</h2>", unsafe_allow_html=True)
 st.sidebar.image("utils/ph3.png", use_container_width=True)
