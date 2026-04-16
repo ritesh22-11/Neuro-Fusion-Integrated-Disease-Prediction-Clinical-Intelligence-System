@@ -107,6 +107,6 @@ if recommend_btn:
 # Footer
 st.markdown("""
     <hr>
-    <p style='text-align: center; color: #7f8c8d;'>Made by <span style='color: orange'>Abhay</span> | 
-    <a href='' style='text-decoration:none'>Github</a> © 2025</p>
+    <p style='text-align: center; color: #7f8c8d;'>Made by <span style='color: orange'>R.K.</span> | 
+    <a href='' style='text-decoration:none'>Github</a> © 2026</p>
 """, unsafe_allow_html=True)
